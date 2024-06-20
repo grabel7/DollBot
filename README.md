@@ -1,0 +1,2 @@
+# DollBot
+ Discord TypeScript Bot
